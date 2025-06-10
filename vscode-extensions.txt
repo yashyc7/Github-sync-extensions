@@ -1,0 +1,17 @@
+catppuccin.catppuccin-vsc-icons
+codeium.codeium
+dheovani.svg-viewer
+formulahendry.auto-rename-tag
+formulahendry.code-runner
+frhtylcn.pythonsnippets
+github.copilot
+github.copilot-chat
+kevinrose.vsc-python-indent
+mikoz.black-py
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+muhammad-ahmad.xlsx-viewer
+ritwickdey.liveserver
+thedavej.night-owl-black
+usernamehw.errorlens

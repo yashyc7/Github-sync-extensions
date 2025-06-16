@@ -1,6 +1,6 @@
-catppuccin.catppuccin-vsc-icons
 codeium.codeium
 dheovani.svg-viewer
+echoapi.echoapi-for-vscode
 formulahendry.auto-rename-tag
 formulahendry.code-runner
 frhtylcn.pythonsnippets
@@ -12,6 +12,7 @@ ms-python.debugpy
 ms-python.python
 ms-python.vscode-pylance
 muhammad-ahmad.xlsx-viewer
+pkief.material-icon-theme
 ritwickdey.liveserver
 thedavej.night-owl-black
 usernamehw.errorlens

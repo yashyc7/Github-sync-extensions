@@ -5,6 +5,7 @@ formulahendry.code-runner
 frhtylcn.pythonsnippets
 github.copilot
 github.copilot-chat
+k3a.theme-dark-plus-contrast
 kevinrose.vsc-python-indent
 mikoz.black-py
 ms-python.debugpy

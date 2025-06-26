@@ -1,11 +1,11 @@
 codeium.codeium
 dheovani.svg-viewer
-dunkelfalke80.dunkelfalke80-easy-on-the-eyes-color-theme
 formulahendry.auto-rename-tag
 formulahendry.code-runner
 github.copilot
 github.copilot-chat
 hiteshchoudharycode.chai-theme
+jannchie.codetime
 kevinrose.vsc-python-indent
 mikekscholz.pop-icon-theme
 ms-python.debugpy

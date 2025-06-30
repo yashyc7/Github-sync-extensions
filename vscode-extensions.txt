@@ -4,7 +4,6 @@ formulahendry.auto-rename-tag
 formulahendry.code-runner
 github.copilot
 github.copilot-chat
-hiteshchoudharycode.chai-theme
 jannchie.codetime
 kevinrose.vsc-python-indent
 mikekscholz.pop-icon-theme

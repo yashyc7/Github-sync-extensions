@@ -5,7 +5,6 @@ formulahendry.code-runner
 github.copilot
 github.copilot-chat
 kevinrose.vsc-python-indent
-mcagampan.dark-horizon
 mikekscholz.pop-icon-theme
 mintlify.document
 ms-python.debugpy
@@ -17,3 +16,4 @@ postman.postman-for-vscode
 ritwickdey.liveserver
 usernamehw.errorlens
 wakatime.vscode-wakatime
+yashchauhan941140.ultrafocus-theme

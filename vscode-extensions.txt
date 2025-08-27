@@ -10,5 +10,7 @@ ms-python.vscode-python-envs
 muhammad-ahmad.xlsx-viewer
 qwtel.sqlite-viewer
 ritwickdey.liveserver
+sirtori.indenticator
 usernamehw.errorlens
+wakatime.vscode-wakatime
 yashchauhan941140.ultrafocus-theme
